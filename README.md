@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/openlitespeed-h3-mtls-verifycontext">openlitespeed-h3-mtls-verifycontext</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/openlitespeed-h3-mtls-verifycontext"><strong>https://abraxaslabs.tech/research/openlitespeed-h3-mtls-verifycontext</strong></a>
+</p>
+
 
 # openlitespeed-h3-mtls-verifycontext
 
